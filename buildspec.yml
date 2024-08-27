@@ -17,6 +17,6 @@ phases:
 artifacts:
   files:
     - '**/*'
-  base-directory: 'dist/reactApp'
+  base-directory: 'build'
   discard-paths: yes
   
